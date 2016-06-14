@@ -17,3 +17,6 @@
 * JS-Bibliotheken
 * Barrierefreiheit
 * Erweiterbarkeit
+* Ladezeit
+* SEO-freundlichkeit
+* Codequalität
