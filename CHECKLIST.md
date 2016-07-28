@@ -6,7 +6,10 @@
 * Aufbau der Module
 * Wartbarkeit
 * Updatefähigkeit
-* Umfang / welche Inhaltselemente
+* Umfang
+  * welche Inhaltselemente sind gestyled
+  * werden SCSS o.ae. Files mitgeliefert
+  * Dummy Content
 * eigene Inhaltselemente? Transparent?
 * Unterstützung Isotope, MetaModels
 * Preis
